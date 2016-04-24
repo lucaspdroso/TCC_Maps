@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\TesteAPIMaps.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\System.Core.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\System.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\Xamarin.GooglePlayServices.Location.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\TesteAPIMaps\TesteAPIMaps\obj\Debug\assemblies\System.ServiceModel.Internals.dll
